@@ -2,14 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
+  2 (PDF - 5.6MB)](resources/mit14_722s13_lecture2)'
+parent_title: Lecture Videos and Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Micro-Founded Macro Models'
 uid: 5d92ed43-d78d-860b-6ae0-06ff2875d00f
 video_files:
   archive_url: http://www.archive.org/download/MIT14.772S13/MIT14_772S13_lec02_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/14-772-development-economics-macroeconomics-spring-2013/14c3f8e51edd57609fda3d830c40bc48_MR_Dwrf9yII.vtt
+  video_captions_file: /courses/14-772-development-economics-macroeconomics-spring-2013/14c3f8e51edd57609fda3d830c40bc48_MR_Dwrf9yII.vtt
   video_thumbnail_file: https://img.youtube.com/vi/MR_Dwrf9yII/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/14-772-development-economics-macroeconomics-spring-2013/8656c235196e86713cfdf9657db2711b_MR_Dwrf9yII.pdf
+  video_transcript_file: /courses/14-772-development-economics-macroeconomics-spring-2013/8656c235196e86713cfdf9657db2711b_MR_Dwrf9yII.pdf
 video_metadata:
   youtube_id: MR_Dwrf9yII
 ---

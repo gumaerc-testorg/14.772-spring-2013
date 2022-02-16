@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Lecture 4 (PDF - 1.4MB)](resources/mit14_772s13_lecture4)'
+parent_title: Lecture Videos and Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Growth, TFP, Domestic and International Capital Flows'
 uid: fcda8450-f34c-97e6-32e4-5764d688dac9
 video_files:
   archive_url: http://www.archive.org/download/MIT14.772S13/MIT14_772S13_lec04_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/14-772-development-economics-macroeconomics-spring-2013/98d58cbb51965542a8db1bc5d8832005_ekWxanQrsz4.vtt
+  video_captions_file: /courses/14-772-development-economics-macroeconomics-spring-2013/98d58cbb51965542a8db1bc5d8832005_ekWxanQrsz4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ekWxanQrsz4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/14-772-development-economics-macroeconomics-spring-2013/4317cc9fd9b829a5c95b37757bc07ce8_ekWxanQrsz4.pdf
+  video_transcript_file: /courses/14-772-development-economics-macroeconomics-spring-2013/4317cc9fd9b829a5c95b37757bc07ce8_ekWxanQrsz4.pdf
 video_metadata:
   youtube_id: ekWxanQrsz4
 ---
