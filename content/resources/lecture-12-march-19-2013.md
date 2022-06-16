@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 12 (PDF)](resources/mit14_772s13_lecture12)'
+optional_text: '[Lecture 12 (PDF)](/courses/14-772-development-economics-macroeconomics-spring-2013/resources/mit14_772s13_lecture12)'
 parent_title: Lecture Videos and Slides
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 Description: In this lecture, Prof. Townsend reviews research about financial infrastructure and the impact of expansion.
 
 Instructor: Prof. Robert M. Townsend
+
+
+

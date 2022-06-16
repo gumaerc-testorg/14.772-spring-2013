@@ -5,9 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
-  2 (PDF - 5.6MB)](resources/mit14_722s13_lecture2)'
+optional_text: '[Lecture 2 (PDF - 5.6MB)](/courses/14-772-development-economics-macroeconomics-spring-2013/resources/mit14_722s13_lecture2)'
 parent_title: Lecture Videos and Slides
 parent_type: CourseSection
 related_resources_text: ''
@@ -28,3 +28,6 @@ video_metadata:
 **Description:** This lecture explains how micro-founded macro models can be used in economic research and the formulation of policy. 
 
 **Instructor:** Prof. Robert M. Townsend
+
+
+

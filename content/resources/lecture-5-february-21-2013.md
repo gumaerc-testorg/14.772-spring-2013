@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 5 (PDF - 8.6MB)](resources/mit14_772s13_lecture5)'
+optional_text: '[Lecture 5 (PDF - 8.6MB)](/courses/14-772-development-economics-macroeconomics-spring-2013/resources/mit14_772s13_lecture5)'
 parent_title: Lecture Videos and Slides
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Townsend explains the methods of measurement in the field of development economics.
 
 **Instructor:** Prof. Robert M. Townsend
+
+
+

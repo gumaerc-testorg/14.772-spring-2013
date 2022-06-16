@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 4 (PDF - 1.4MB)](resources/mit14_772s13_lecture4)'
+optional_text: '[Lecture 4 (PDF - 1.4MB)](/courses/14-772-development-economics-macroeconomics-spring-2013/resources/mit14_772s13_lecture4)'
 parent_title: Lecture Videos and Slides
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Robert Townsend explains growth, TFP, domestic and international capital flows with other frictions in financial intermediation.
 
 **Instructor:** Prof. Robert M. Townsend
+
+
+
