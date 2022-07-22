@@ -1,34 +1,22 @@
 ---
 content_type: page
+description: This section provides the readings for each session of the course. Links
+  are included for many of the readings.
+draft: false
 title: Readings
 uid: d9be3c20-8033-98d1-d333-2fc0018f12f5
 ---
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction to the course
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Financial Access, Deepening, Growth
 
@@ -40,9 +28,9 @@ Levine, R. "Finance and Growth: Theory and Evidence." Chapter 12 in _Handbook of
 
 ### Finance And Macro Stability
 
-Koren, M., and S. Tenreyro. "[Volatility and Development](http://dx.doi.org/ 10.1162/qjec.122.1.243)." _The Quarterly Journal of Economics_ 122, no. 1 (2007): 243–87.
+Koren, M., and S. Tenreyro. "[Volatility and Development](https://academic.oup.com/qje/article-abstract/122/1/243/1924732)." _The Quarterly Journal of Economics_ 122, no. 1 (2007): 243–87.
 
-Rancière, R., A. Tornell, et al. "[Systemic Crises and Growth](http://dx.doi.org/ 10.1162/qjec.2008.123.1.359)." _The Quarterly Journal of Economics_ 123, no. 1 (2008): 359–406.
+Rancière, R., A. Tornell, et al. "[Systemic Crises and Growth](https://academic.oup.com/qje/article-abstract/123/1/359/1889824?redirectedFrom=fulltext)." _The Quarterly Journal of Economics_ 123, no. 1 (2008): 359–406.
 
 Acemoglu, D., and F. Zilibotti. "[Was Prometheus Unbound by Chance? Risk, Diversification, and Growth](http://www.jstor.org/stable/10.1086/262091)." _The Journal of Political Economy_ 105, no. 4 (1997): 709-51.
 
@@ -56,34 +44,26 @@ Bakker, Bas, Giovanni Dell'Ariccia, et al. "[Policies for Macrofinancial Stabili
 
 ### Country-Specific Applications
 
-*   Thailand
-    *   Townsend, R. M. _Financial Systems in Developing Economies: Growth, Inequality, and Policy Evaluation in Thailand_. Oxford University Press, 2011. ISBN: 9780199533237.
-
-*   Mexico
-    *   Townsend, R. (2012) Financial Intermediation, Entrepreneurship, and Economic Growth in Mexico, book manuscript.
-    *   ———. "Financial Structure and Economic Welfare: Applied General Equilibrium Development Economics." In _Annual Review of Economics_. Vol. 2. Edited by Kenneth Arrow and Timothy Bresnahan. Annual Review, 2010, pp. 507–44. ISBN: 9780824346027.
+- Thailand   
+      
+    - Townsend, R. M. _Financial Systems in Developing Economies: Growth, Inequality, and Policy Evaluation in Thailand_. Oxford University Press, 2011. ISBN: 9780199533237.
+- Mexico   
+      
+    - Townsend, R. (2012) Financial Intermediation, Entrepreneurship, and Economic Growth in Mexico, book manuscript.
+    - ———. "Financial Structure and Economic Welfare: Applied General Equilibrium Development Economics." In _Annual Review of Economics_. Vol. 2. Edited by Kenneth Arrow and Timothy Bresnahan. Annual Review, 2010, pp. 507–44. ISBN: 9780824346027.
 
 De, Castro, M. R., et al. "[SAMBA: Stochastic Analytical Model with a Bayesian Approach](http://econpapers.repec.org/paper/bcbwpaper/239.htm)." Central Bank of Brazil, Research Department. (2011).
 
-Christiano, L., R. Motto, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Risk Shocks."](http://www.nber.org/papers/w18682) NBER Working Paper No. 18682. January 2013. 
+Christiano, L., R. Motto, et al. ["Risk Shocks."](http://www.nber.org/papers/w18682) NBER Working Paper No. 18682. January 2013. 
 
 Townsend, R. M. "[Insurance and Credit: Micro Financial Underpinnings for Entire Economies](http://www.robertmtownsend.net/content/insurance-and-credit-micro-financial-underpinnings-entire-economies)." IIES 50th Anniversary Lecture slides (annotated) (2012).
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **General Equilibrium Modeling with Financial Frictions, With and Without Underlying Tests**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+
 Micro-founded macro models
 
 Part 1: Occupational choice and limited commitment—theory with micro tests
@@ -92,10 +72,7 @@ Part 2: Risk-sharing, insurance, and endogenous financial deepening
 
 Part 3: Model comparisons
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Lloyd-Ellis, H., and D. Bernhardt. "[Enterprise, Inequality and Economic Development](http://dx.doi.org/10.1111/1467-937X.00125)." _The Review of Economic Studies_ 67, no. 1 (2000): 147–68.
 
@@ -123,19 +100,11 @@ Jeong, H., and R. M. Townsend. "[Growth and Inequality: Model Evaluation Based o
 
 Hansen, L., and J. Heckman. "[The Empirical Foundations of Calibration](http://dx.doi.org/10.1257/jep.10.1.87)." _Journal of Economic Perspectives_ 10, no. 1 (1996): 87–104.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Growth, inequality, TFP with financial imperfections (featuring limited commitment)
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Song, Zheng, Kjetil Storesletten, et al. "[Growing like China](http://dx.doi.org/10.1257/aer.101.1.196)." _The American Economic Review_ 101, no. 1 (2011): 196–233.
 
@@ -147,7 +116,7 @@ Buera, Franciso and Yongseok Shin. "[Financial Frictions and the Persistence of 
 
 Jeong, Hyeok, and R. M. Townsend. "[Sources of TFP Growth: Occupational Choice and Financial Deepening](http://dx.doi.org/10.1007/s00199-006-0201-8)." _Economic Theory_ 32, no. 1 (2007): 179–221.
 
-Coeurdacier, N., S. Guibaud, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Credit Constraints and Growth in a Global Economy](https://www.jstor.org/stable/43821359?seq=1#page_scan_tab_contents)."  London School of Economics, 2013.
+Coeurdacier, N., S. Guibaud, et al. "[Credit Constraints and Growth in a Global Economy](https://www.jstor.org/stable/43821359?seq=1#page_scan_tab_contents)."  London School of Economics, 2013.
 
 Jappelli, T., and M. Pagano. "[Saving, Growth, and Liquidity Constraints](http://www.jstor.org/stable/2118429)." _The Quarterly Journal of Economics_ 109, no. 1 (1994): 83–109.
 
@@ -157,21 +126,13 @@ Blaum, J. "[Wealth Inequality and the Losses from Financial Frictions](http://id
 
 Banerjee, A. V., and B. Moll. "[Why Does Misallocation Persist?](http://dx.doi.org/10.1257/mac.2.1.189)" _American Economic Journal: Macroeconomics_ 2, no. 1 (2010): 189–206.
 
-Moll, Benjamin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Productivity Losses from Financial Frictions: Can Self-Financing Undo Capital Misallocation?" (PDF)](http://www.princeton.edu/~moll/TFPFF.pdf).  Princeton University, 2013.
+Moll, Benjamin. ["Productivity Losses from Financial Frictions: Can Self-Financing Undo Capital Misallocation?" (PDF)](http://www.princeton.edu/~moll/TFPFF.pdf).  Princeton University, 2013.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Growth, TFP, international capital flows: Other frictions in financial intermediation (costly state verification, adverse selection, moral hazard)
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Moll, B., R. M. Townsend, et al. "Entrepreneurship, Inequality and Growth with Information Constrained Factor Markets."
 
@@ -181,25 +142,13 @@ Martin, A., and F. Taddei. "[International Capital Flows and Credit Market Imper
 
 Greenwood, J., J. M. Sanchez, et al. "[Quantifying the Impact of Financial Development on Economic Development](http://dx.doi.org/10.1016/j.red.2012.07.003)." _Review of Economic Dynamics_ 16, no. 1 (2013): 194–215. 
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Micro Data and Tests of Model Underpinnings**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Measurement: Financial accounts, economic accounts, NIPA, balance of payments; From households to village economies to national level flow of funds
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Samphantharak, K., and R. M. Townsend. Chapter 4 in _Households as Corporate Firms: An Analysis of Household Finance Using Integrated Household Surveys and Corporate Financial Accounting_. Econometric Society Monograph Series. Cambridge University Press, 2009. ISBN: 9780521124164.
 
@@ -219,7 +168,7 @@ Antràs, P., and R. J. Caballero. "[Trade and Capital Flows: A Financial Frictio
 
 Christiano, L., M. Eichenbaum., et al. "[The Effects of Monetary Policy Shocks: Evidence from the Flow of Funds](http://www.jstor.org/sici?sici=0034-6535%28199602%2978%3A1%3C16%3ATEOMPS%3E2.0.CO%3B2-M&origin=bc)." _Review of Economics and Statistics_ 78, no. 1 (1996): 16–34.
 
-Ridhwan, M., Henri L. F. de Groot, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Regional Impact of Monetary Policy in Indonesia." (PDF)](http://papers.tinbergen.nl/11081.pdf) Ti 2011.
+Ridhwan, M., Henri L. F. de Groot, et al. ["The Regional Impact of Monetary Policy in Indonesia." (PDF)](http://papers.tinbergen.nl/11081.pdf) Ti 2011.
 
 Cagetti, Marco. "[Overview of Flow of Funds Accounts](http://www.cfsp.org/publications/slides/overview-flow-funds-accounts#.Ui144T_hc0k)."
 
@@ -229,23 +178,15 @@ Moore, Tomoe and Christopher Green. "[Empirical Application of a Flow of Funds M
 
 Guerrieri, V., and G. Lorenzoni. "[Credit Crises, Precautionary Savings, and the Liquidity Trap](http://www.nber.org/papers/w17583)." NBER Working Paper No. 17583. November 2011. 
 
-Piazzesi, M., and M. Schneider. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Inflation and the Price of Real Assets."](http://www.minneapolisfed.org/publications_papers/pub_display.cfm?id=4167) Staff Report 423. The Federal Reserve Bank of Minneapolis, April 14, 2009. 
+Piazzesi, M., and M. Schneider. ["Inflation and the Price of Real Assets."](http://www.minneapolisfed.org/publications_papers/pub_display.cfm?id=4167) Staff Report 423. The Federal Reserve Bank of Minneapolis, April 14, 2009. 
 
 "[CFSP Flow of Funds Accounts and Savings Workshop](http://www.cfsp.org/research/workshops/flow-funds-accounts-and-savings-workshop)." April 2012, conference summary
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Insurance: From village insurance to financial access and targeting to risk instruments in advanced OECD countries
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Townsend, Robert. "[Risk and Insurance in Village India](http://www.jstor.org/stable/2951659)." _Econometrica_ 62, no. 3 (1994): 539–91.
 
@@ -275,41 +216,25 @@ Gine, X., and D. Yang. "[Insurance, credit, and technology adoption: Field exper
 
 Karlan, D., R. Osei, et al. "[Agricultural Decisions After Relaxing Credit and Risk Constraints](http://www.nber.org/papers/w18463)." Working Paper, 2012.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Capital asset pricing: Idiosyncratic and aggregate risk, mean variance frontiers, lack of insurance among the poor and modern corporations
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Samphantharak, K., and R. M. Townsend. ["Risk and Return in Village Economies." (PDF)](http://www.nber.org/papers/w19738.pdf) (2010).
 
 Calvet, L., J. Campbell, et al. "[Down or Out: Assessing the Welfare Costs of Household Investment Mistakes](http://www.nber.org/papers/w12030)." _Journal of Political Economy_ 115, no. 5 (2007): 707–47.
 
-Rampini, A., A. Sufi, et al. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Dynamic Risk Management." (PDF)](http://areas.kenan-flagler.unc.edu/finance/JHfinance/Documents/Rampini%20Sufi%20Viswanathan%202011.pdf) (2011).
+Rampini, A., A. Sufi, et al. ["Dynamic Risk Management." (PDF)](http://areas.kenan-flagler.unc.edu/finance/JHfinance/Documents/Rampini%20Sufi%20Viswanathan%202011.pdf) (2011).
 
 Samphantharak, K., and R. M. Townsend. "Understanding Consumption and Income Volatility in Village Economies." 2013.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Links to the macro literature: Panel data and models of smoothing (exogenous incomplete markets)
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Kaplan, G., and G. L. Violante. "[How Much Consumption Insurance Beyond Self-Insurance?](http://dx.doi.org/10.1257/mac.2.4.53)" _American Economic Journal: Macroeconomics_ 2, no. 4 (2010): 53–87.
 
@@ -325,21 +250,13 @@ Krueger, D., and F. Perri. "[How Do Households Respond to Income Shocks?" (PDF)]
 
 Blundell, R., L. Pistaferri, et al. "[Consumption Inequality and Partial Insurance](http://dx.doi.org/10.1257/aer.98.5.1887)." _American Economic Review_ 98, no. 5 (2008): 1887–921.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Labor supply: Intensive and extensive margin in villages to families, lotteries, and elasticities in macro
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Bonhomme, Chiappori, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Sharing Wage Risk." (PDF)](http://www.robertmtownsend.net/sites/default/files/files/papers/working_papers/SharingWageRisk.pdf) Working Paper.
+Bonhomme, Chiappori, et al. ["Sharing Wage Risk." (PDF)](http://www.robertmtownsend.net/sites/default/files/files/papers/working_papers/SharingWageRisk.pdf) Working Paper.
 
 ### Related Literature
 
@@ -357,19 +274,11 @@ Ljunqvist, Lars, and Thomas Sargent. "[Career Length: Effects of Curvature of Ea
 
 Jayachandran, Seema. "[Selling Labor Low: Wage Responses to Productivity Shocks in Developing Countries](http://www.jstor.org/stable/10.1086/503579)." _Journal of Political Economy_ 114, no. 3 (2006): 538–75.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Barriers to sharing risk (moral hazard, limited commitment): Common methods in village economies
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Kinnan, Cynthia. "[Distinguishing Barriers to Insurance in Thai Villages](http://www.cfsp.org/publications/working-papers/distinguishing-barriers-insurance-thai-villages#.UiiAZT_hc0k)." (2010).
 
@@ -381,27 +290,15 @@ Karaivanov, Alexander and Robert M. Townsend. "[Dynamic Financial Constraints: D
 
 Ligon, E., J. P. Thomas, et al. "[Informal Insurance Arrangements with Limited Commitment: Theory and Evidence from Village Economies](http://dx.doi.org/10.1111/1467-937X.00204)." _Review of Economic Studies_ 69, no. 1 (2002): 209–44.
 
-Morten, M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Temporary Migration and Endogenous Risk-Sharing in Village India." (PDF)](http://www.dartmouth.edu/~neudc2012/docs/paper_112.pdf). Yale University, 2012.
+Morten, M. "[Temporary Migration and Endogenous Risk-Sharing in Village India." (PDF)](http://www.dartmouth.edu/~neudc2012/docs/paper_112.pdf). Yale University, 2012.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Welfare and the Evaluation of Impact: Reduced Form Econometrics and Structural Parameters**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Program evaluation: The Thai Million Baht Village Fund
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Kaboski, J., and R. M. Townsend. "[The Impact of Credit on Village Economies](http://dx.doi.org/10.1257/app.4.2.98)." _American Economic Journal: Applied Economics_ 4, no. 2 (2012): 98–133.
 
@@ -415,19 +312,11 @@ Duflo, Bruno Crépon, et al. "[Impact of Microcredit in Rural Areas of Morocco: 
 
 Townsend, R. M., and S. Urzua. "[Measuring the Impact of Financial Intermediation: Linking Contract Theory to Econometric Policy Evaluation](http://dx.doi.org/10.1017/S1365100509090178)." _Macroeconomic Dynamics_ 13, Supplement S2 (2009): 268–316.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 From reduced-form to structural evaluation: Expanding financial infrastructure and impact
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Townsend, R. M., and S. Urzua. "[Measuring the Impact of Financial Intermediation: Linking Contract Theory to Econometric Policy Evaluation](http://dx.doi.org/10.1017/S1365100509090178)." _Macroeconomic Dynamics_ 13, Supplement S2 (2009): 268–316.
 
@@ -445,21 +334,10 @@ Keane, and Wolpin. "[Empirical Applications of Discrete Choice Dynamic Programmi
 
 Saurina, Jesus, Robert M. Townsend, Daniel Keniston, and Carlos Perez Montes.  "[Expansion of Spanish Banks: Distance Costs and Proximity Gains](http://www.cfsp.org/publications/working-papers/expansion-spanish-banks-distance-costs-and-proximity-gains#.Uibbfj_hc0k)." Working Paper. Consortium on Financial Systems adn Poverty, 2012.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Discussion, research proposals
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No Readings
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
