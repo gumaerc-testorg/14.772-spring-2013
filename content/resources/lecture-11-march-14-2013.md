@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Lecture 11 (PDF)](/courses/14-772-development-economics-macroeconomics-spring-2013/resources/mit14_772s13_lecture11)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture covers the research methods used to evaluate microcredit programs.
 
 **Instructor:** Prof. Robert M. Townsend
-
-
 

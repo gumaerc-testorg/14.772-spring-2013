@@ -4,6 +4,7 @@ description: ''
 file: /courses/14-772-development-economics-macroeconomics-spring-2013/cb7ffac112575bc0aa2a832eba0c4912_BrvMZf2jaso.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

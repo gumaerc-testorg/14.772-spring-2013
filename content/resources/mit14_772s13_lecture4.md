@@ -5,6 +5,7 @@ file: /courses/14-772-development-economics-macroeconomics-spring-2013/3355bff62
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos and Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture slides 4
 uid: 3355bff6-239a-c528-f398-082bc8c67079
 ---
 This file contains information regarding lecture slides 4.
-

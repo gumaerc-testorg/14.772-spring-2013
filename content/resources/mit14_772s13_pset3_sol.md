@@ -5,6 +5,7 @@ file: /courses/14-772-development-economics-macroeconomics-spring-2013/7abc209fc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem set 3 solutions
 uid: 7abc209f-c7d1-ece2-a651-dfe3c8b223e6
 ---
 This file contains information regarding problem set 3 solution.
-

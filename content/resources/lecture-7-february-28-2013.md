@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Lecture 7 (PDF - 2.1MB)](/courses/14-772-development-economics-macroeconomics-spring-2013/resources/mit14_772s13_lecture7)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Prof. Robert Townsend discusses research methods and concepts aboout studying risk and return in village households.
 
 **Instructor:** Prof. Robert M. Townsend
-
-
 

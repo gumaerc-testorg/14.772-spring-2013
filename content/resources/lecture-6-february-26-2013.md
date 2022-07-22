@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Lecture 6 (PDF - 1.3MB)](/courses/14-772-development-economics-macroeconomics-spring-2013/resources/mit14_772s13_lecture6)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Townsend discusses insurance as it relates to financial access and targeting to risk instruments.
 
 **Instructor:** Prof. Robert M. Townsend
-
-
 

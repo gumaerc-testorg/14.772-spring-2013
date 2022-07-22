@@ -5,6 +5,7 @@ file: /courses/14-772-development-economics-macroeconomics-spring-2013/fdefe5121
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem set 2 solutions
 uid: fdefe512-1499-9881-6d8e-0aaf89e3ad87
 ---
 This file contains information regarding problem set 2 solution.
-
