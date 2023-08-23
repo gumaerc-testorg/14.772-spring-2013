@@ -1,6 +1,7 @@
 ---
 content_type: video_gallery
 description: This section provides lecture videos and accompanying lecture slides.
+draft: false
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
@@ -23,8 +24,6 @@ videos:
   - 7708e3dd-f13b-b2b0-c70a-fd0f75b9fa05
   website: 14-772-development-economics-macroeconomics-spring-2013
 ---
-
-Lecture slides can be found by clicking on each video, and then selecting the third tab called "Lecture Slides" underneath the video.
+Lecture slides are available underneath each video.
 
 {{< video-gallery "cbdcaa71-dff5-ef7d-0d62-b9723456758a" >}}
-
