@@ -8,7 +8,7 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: "[Lecture 1 (PDF - 3.2MB)  \n](resources/mit14_772s13_lecture1)"
+optional_text: "[Lecture 1 (PDF - 3.2MB)  \n](../mit14_772s13_lecture1)"
 parent_title: Lecture Videos and Slides
 parent_type: CourseSection
 related_resources_text: ''
@@ -25,8 +25,6 @@ video_files:
 video_metadata:
   youtube_id: 0hA7nbRzOy0
 ---
-
 **Description:** Prof. Townsend introduces the course to the students, explains the syllabus, and covers the topics of finance, growth, and volatility.
 
 **Instructor:** Prof. Robert M. Townsend
-

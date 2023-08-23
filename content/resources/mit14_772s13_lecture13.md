@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: MIT14_772S13_lecture1.pdf
-uid: 7e6bc59f-405a-4ff8-b972-1bec7f8af002
+uid: 002b6ec7-1018-4039-b1b4-8269ed5098b7
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
