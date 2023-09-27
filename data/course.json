@@ -50,8 +50,10 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Problem Sets with Solutions"
+    "Problem Sets with Solutions",
+    "Lecture Notes"
   ],
-  "site_uid": "2e442383-3134-4e0b-80ef-39525d142cab",
+  "site_uid": "0f0e285e-d3ab-41d4-8ce2-c567480d0a6b",
+  "site_short_id": "14.772-spring-2013",
   "title": "Course Metadata"
 }
