@@ -3,12 +3,13 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '253033089'
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: "[Lecture 1 (PDF - 3.2MB)  \n](../mit14_772s13_lecture1)"
+optional_text: "[Lecture 1 (PDF - 3.2MB)  \n](/courses/14-772-development-economics-macroeconomics-spring-2013/resources/mit14_772s13_lecture1)"
 parent_title: Lecture Videos and Slides
 parent_type: CourseSection
 related_resources_text: ''

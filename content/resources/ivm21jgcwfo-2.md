@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-772-development-economics-macroeconomics-spring-2013/cd6526f34e0f59cc84a2d0937cb1b569_IVm21JGcwFo.vtt
+file_size: 104353
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

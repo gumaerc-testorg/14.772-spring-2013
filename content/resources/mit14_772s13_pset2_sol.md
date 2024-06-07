@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding problem set 2 solution.
 file: /courses/14-772-development-economics-macroeconomics-spring-2013/fdefe512149998816d8e0aaf89e3ad87_MIT14_772S13_pset2_sol.pdf
+file_size: 216248
 file_type: application/pdf
 learning_resource_types:
 - Assignments
