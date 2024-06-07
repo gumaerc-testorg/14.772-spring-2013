@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture slides 4.
 file: /courses/14-772-development-economics-macroeconomics-spring-2013/3355bff6239ac528f398082bc8c67079_MIT14_772S13_lecture4.pdf
+file_size: 1430832
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
