@@ -36,7 +36,7 @@ Acemoglu, D., and F. Zilibotti. "[Was Prometheus Unbound by Chance? Risk, Divers
 
 ### Some Policy Papers
 
-Levine, R. ["Regulating Finance and Regulators to Promote Growth." (PDF)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.639.3921&rep=rep1&type=pdf) (2011).
+Levine, R. ["Regulating Finance and Regulators to Promote Growth." (PDF)](https://www.kansascityfed.org/documents/3088/2011-Levine_final.pdf) (2011).
 
 Beck, T. ["Financial Possibility Frontier: Understanding Structural and Policy Gaps in Financial Systems." (PDF)](http://www.imf.org/external/np/seminars/eng/2012/spr/pdf/TB_p.pdf) (2012).
 
@@ -44,10 +44,10 @@ Bakker, Bas, Giovanni Dell'Ariccia, et al. "[Policies for Macrofinancial Stabili
 
 ### Country-Specific Applications
 
-- Thailand       
+- Thailand         
       
     - Townsend, R. M. *Financial Systems in Developing Economies: Growth, Inequality, and Policy Evaluation in Thailand*. Oxford University Press, 2011. ISBN: 9780199533237.
-- Mexico       
+- Mexico         
       
     - Townsend, R. (2012) Financial Intermediation, Entrepreneurship, and Economic Growth in Mexico, book manuscript.
     - ———. "Financial Structure and Economic Welfare: Applied General Equilibrium Development Economics." In *Annual Review of Economics*. Vol. 2. Edited by Kenneth Arrow and Timothy Bresnahan. Annual Review, 2010, pp. 507–44. ISBN: 9780824346027.
@@ -180,7 +180,7 @@ Guerrieri, V., and G. Lorenzoni. "[Credit Crises, Precautionary Savings, and the
 
 Piazzesi, M., and M. Schneider. ["Inflation and the Price of Real Assets."](http://www.minneapolisfed.org/publications_papers/pub_display.cfm?id=4167) Staff Report 423. The Federal Reserve Bank of Minneapolis, April 14, 2009. 
 
-"[CFSP Flow of Funds Accounts and Savings Workshop](http://www.cfsp.org/research/workshops/flow-funds-accounts-and-savings-workshop)." April 2012, conference summary
+"CFSP Flow of Funds Accounts and Savings Workshop." April 2012, conference summary
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -226,7 +226,7 @@ Samphantharak, K., and R. M. Townsend. ["Risk and Return in Village Economies." 
 
 Calvet, L., J. Campbell, et al. "[Down or Out: Assessing the Welfare Costs of Household Investment Mistakes](http://www.nber.org/papers/w12030)." *Journal of Political Economy* 115, no. 5 (2007): 707–47.
 
-Rampini, A., A. Sufi, et al. ["Dynamic Risk Management." (PDF)](http://areas.kenan-flagler.unc.edu/finance/JHfinance/Documents/Rampini%20Sufi%20Viswanathan%202011.pdf) (2011).
+Rampini, A., A. Sufi, et al. ["Dynamic Risk Management." (PDF)](https://people.duke.edu/~rampini/papers/Rampini%20Sufi%20Viswanathan%202014%20JFE.pdf) (2011).
 
 Samphantharak, K., and R. M. Townsend. "Understanding Consumption and Income Volatility in Village Economies." 2013.
 
@@ -260,11 +260,11 @@ Bonhomme, Chiappori, et al. "Sharing Wage Risk." Working Paper.
 
 ### Related Literature
 
-Rogerson, Richard. "[Indivisible Labor, Lotteries and Equilibrium](http://dx.doi.org/10.1016/0304-3932(88)90042-6)." *Journal of Monetary Economics* 21, no. 1 (1988): 3–16.
+Rogerson, Richard. "[Indivisible Labor, Lotteries and Equilibrium](http://dx.doi.org/10.1016/0304-3932%2888%2990042-6)." *Journal of Monetary Economics* 21, no. 1 (1988): 3–16.
 
 Chetty, Raj, Adam Guren, et al. "[Are Micro and Macro Labor Supply Elasticities Consistent? A Review of Evidence on the Intensive and Extensive Margins](http://dx.doi.org/10.1257/aer.101.3.471)." *American Economic Review* 101, no. 3 (2011): 471–75.
 
-Hansen, Gary D. "[Indivisible Labor and the Business Cycle](http://dx.doi.org/10.1016/0304-3932(85)90039-X)." *Journal of Monetary Economics* 16, no. 3 (1985): 309–27.
+Hansen, Gary D. "[Indivisible Labor and the Business Cycle](http://dx.doi.org/10.1016/0304-3932%2885%2990039-X)." *Journal of Monetary Economics* 16, no. 3 (1985): 309–27.
 
 Chang, Yongsung, and Sun-Bin Kim. "[From Individual to Aggregate Labor Supply: A Quantitative Analysis Based on a Heterogeneous Agent Macroeconomy](http://dx.doi.org/10.1111/j.1468-2354.2006.00370.x)." *International Economic Review* 47, no. 1 (2006): 1–27.
 
