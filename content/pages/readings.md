@@ -44,10 +44,10 @@ Bakker, Bas, Giovanni Dell'Ariccia, et al. "[Policies for Macrofinancial Stabili
 
 ### Country-Specific Applications
 
-- Thailand         
+- Thailand          
       
     - Townsend, R. M. *Financial Systems in Developing Economies: Growth, Inequality, and Policy Evaluation in Thailand*. Oxford University Press, 2011. ISBN: 9780199533237.
-- Mexico         
+- Mexico          
       
     - Townsend, R. (2012) Financial Intermediation, Entrepreneurship, and Economic Growth in Mexico, book manuscript.
     - ———. "Financial Structure and Economic Welfare: Applied General Equilibrium Development Economics." In *Annual Review of Economics*. Vol. 2. Edited by Kenneth Arrow and Timothy Bresnahan. Annual Review, 2010, pp. 507–44. ISBN: 9780824346027.
@@ -166,7 +166,7 @@ Pawasutipaisit, A. "[Wealth Accumulation and Factors Accounting for Success](htt
 
 Antràs, P., and R. J. Caballero. "[Trade and Capital Flows: A Financial Frictions Perspective](http://www.jstor.org/stable/10.1086/605583)." *Journal of Political Economy* 117, no. 4 (2009): 701–44.
 
-Christiano, L., M. Eichenbaum., et al. "[The Effects of Monetary Policy Shocks: Evidence from the Flow of Funds](http://www.jstor.org/sici?sici=0034-6535%28199602%2978%3A1%3C16%3ATEOMPS%3E2.0.CO%3B2-M&origin=bc)." *Review of Economics and Statistics* 78, no. 1 (1996): 16–34.
+Christiano, L., M. Eichenbaum., et al. "[The Effects of Monetary Policy Shocks: Evidence from the Flow of Funds](https://faculty.wcas.northwestern.edu/lchrist/research/fofa/flowoffunds.pdf)." *Review of Economics and Statistics* 78, no. 1 (1996): 16–34.
 
 Ridhwan, M., Henri L. F. de Groot, et al. ["The Regional Impact of Monetary Policy in Indonesia." (PDF)](http://papers.tinbergen.nl/11081.pdf) Ti 2011.
 
