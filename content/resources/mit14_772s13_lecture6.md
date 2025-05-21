@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture slides 6.
-file: /ol-ocw-studio-app/courses/14-772-development-economics-macroeconomics-spring-2013/ff7697837efbeedc9f4c17b5fb7a1b47_MIT14_772S13_lecture6.pdf
+file: /courses/14-772-development-economics-macroeconomics-spring-2013/ff7697837efbeedc9f4c17b5fb7a1b47_MIT14_772S13_lecture6.pdf
 file_size: 1795732
 file_type: application/pdf
 learning_resource_types:
