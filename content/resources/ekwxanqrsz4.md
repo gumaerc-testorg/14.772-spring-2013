@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-772-development-economics-macroeconomics-spring-2013/97a36ebcf417d85cf4b62f395026c9e7_ekWxanQrsz4.srt
+file: /ol-ocw-studio-app/courses/14-772-development-economics-macroeconomics-spring-2013/97a36ebcf417d85cf4b62f395026c9e7_ekWxanQrsz4.srt
 file_size: 110295
 file_type: application/x-subrip
 learning_resource_types: []
